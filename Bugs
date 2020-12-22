@@ -1,0 +1,4 @@
+Likes:
+
+1. When checking max likes count, no woring as exected if there is number in likes count (ex: 3,423)
+2. Ignnore post if already liked
